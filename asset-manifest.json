@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CI_CD_portfolio/static/css/main.8a6e5ef0.css",
+    "main.js": "/CI_CD_portfolio/static/js/main.f806c4c1.js",
+    "static/media/DashboardImg.png": "/CI_CD_portfolio/static/media/DashboardImg.8d8e96559c1bbbc174f9.png",
+    "static/media/Logo.PNG": "/CI_CD_portfolio/static/media/Logo.a6448332140415df5cf2.PNG",
+    "index.html": "/CI_CD_portfolio/index.html",
+    "main.8a6e5ef0.css.map": "/CI_CD_portfolio/static/css/main.8a6e5ef0.css.map",
+    "main.f806c4c1.js.map": "/CI_CD_portfolio/static/js/main.f806c4c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a6e5ef0.css",
+    "static/js/main.f806c4c1.js"
+  ]
+}
